@@ -1,0 +1,36 @@
+﻿<i class="fa fa-upload"></i>
+<form method="post" name="frm">
+    <input type="file" multiple name="f" value="" />
+</form>
+<div id="rs"></div>
+<style>
+    input {
+        display: none;
+    }
+</style>
+<script>
+    $('.fa-upload').click(function () {
+        $(frm['f']).click();
+    })
+    $(frm['f']).change(function () {
+        var fd = new FormData()
+        for (var i = 0; i < this.files.length; i++) {
+            fd.append('af', this.files[i]);
+        }
+       
+        $.ajax({
+            url: '/upload/ajaxmultiple',
+            type: 'post',
+            data: fd,
+            processData: false,
+            contentType: false,
+            success: function (a) {
+                //console.log(a)
+                for (var i in a) {
+                    $(rs).append(`<img width="100" src="/upload/${a[i]}"/>`)
+                }
+                //$(rs).append(`<img width="100" src="/upload/${o.name}"/>`)
+            }
+        })
+    })
+</script>

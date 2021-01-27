@@ -1,0 +1,99 @@
+﻿
+@model List<WebApp.Models.Product>
+
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<ul>
+    <a href="/product/create">create</a>
+    <a href="/product/loadmore">Load more</a>
+    <a href="/product/lazy">Lazy</a>
+</ul>
+<form action="/product/searchloadmore" method="get">
+    <div class="row">
+        <div class="col-3">
+            <input class="form-control" placeholder="Search load more" type="text" name="q" />
+        </div>
+        <div class="col-9">
+            <button class="btn btn-primary">Search</button>
+        </div>
+    </div>
+</form>
+<form action="/product/search" method="get">
+    <input type="text" name="q" value="@Context.Request.Query["q"]" />
+    <button>Search</button>
+    
+</form>
+
+
+@{int p = ViewContext.RouteData.Values["id"] is null ? 1 : Convert.ToInt32(ViewContext.RouteData.Values["id"]); }
+@*tag helpers*@
+<ul id="pagination" class="pagination">
+    @if (p > 1)
+    {
+        <li class="page-item">
+            <a class="page-link active" href="/product/index/@(p-1)">previous</a>
+        </li>
+    }
+
+    @for (int i = 1; i <= ViewBag.pages; i++)
+    {
+
+        @*if (i == ViewBag.p)
+            {
+                <li class="page-item active">
+                    <a class="page-link active" href="/product/index/@i">@i</a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link active" href="/product/index/@i">@i</a>
+                </li>
+            }*@
+        <li class="p page-item">
+            <a class="page-link active" href="/product/index/@i">@i</a>
+        </li>
+
+    }
+    @if (p < ViewBag.pages)
+    {
+        <li class="page-item">
+            <a class="page-link active" href="/product/index/@(p+1)">next</a>
+        </li>
+    }
+</ul>
+
+
+
+<partial name="Product" model="@Model"/>
+
+@*<table class="table table-bordered bg-success">
+        <thead class="thead-dark">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Brand</th>
+                <th>Model year</th>
+                <th>Price</th>
+                <th>Edit</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (WebApp.Models.Product item in Model)
+            {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.CategoryName</td>
+                <td>@item.BrandName</td>
+                <td>@item.ModelYear</td>
+                <td>@item.Price</td>
+                <td><a href="/product/edit/@item.Id"><i class="fa fa-edit"></i></a></td>
+            </tr>
+            }
+        </tbody>
+    </table>*@
+<script>
+        $($(`#pagination > li.p`)[@(p-1)]).addClass('active')
+</script>

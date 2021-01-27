@@ -1,0 +1,18 @@
+﻿@model List<WebApp.Models.Product>
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<form action="/product/search" method="get">
+    <input type="text" name="q" value="@Context.Request.Query["q"]" />
+    <button>Search</button>
+    <ul class="pagination">
+
+        @for (int i = 1; i < ViewBag.n; i++)
+        {
+            <li class="page-item">
+                <a class="page-link" href="/product/search/@i?q=@Context.Request.Query["q"]">@i</a>
+            </li>
+        }
+
+    </ul>
+    <partial name="Product" model="@Model" />
+    
+</form>

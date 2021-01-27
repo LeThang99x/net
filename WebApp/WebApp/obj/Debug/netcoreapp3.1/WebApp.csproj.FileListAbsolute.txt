@@ -1,0 +1,291 @@
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Dummy\Index.cshtml.g.cs
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\module 3\bai_1\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\module 3\bai_1\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bai_2\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Dummy\Index.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Error.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+E:\bai_2\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bai_3\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Error.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Dummy\Index.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\bai_3\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bai_4\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Error.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Dummy\Index.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\bai_4\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bai_5\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Error.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Dummy\Index.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\LoadMore.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Lazy.cshtml.g.cs
+D:\bai_5\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bai_6\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Error.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Dummy\Index.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Lazy.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\LoadMore.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Product.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\SearchLoadMore.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Upload\Index.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Upload\Multiple.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Upload\Online.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Upload\Ajax.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Ajax\Index.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\shared\_LayoutAjax.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Upload\Icon.cshtml.g.cs
+D:\bai_6\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Upload\IconMultiple.cshtml.g.cs
